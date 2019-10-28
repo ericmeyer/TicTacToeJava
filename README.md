@@ -1,5 +1,7 @@
 # Tic Tac Toe
 
+[![Build Status](https://travis-ci.com/ericmeyer/TicTacToeJava.svg?branch=master)](https://travis-ci.com/ericmeyer/TicTacToeJava)
+
 ## Setting up the Application
 
 1. `git clone https://github.com/ericmeyer/TicTacToeJava`
