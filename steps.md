@@ -15,6 +15,7 @@ My checklist for the walking skeleton was:
  * Set up unit tests
  * Continuous Integration
  * Tasks to run the application and tests
+ * README with instructions for both other developers and consumers of the application
 
 ### Decisions
 
