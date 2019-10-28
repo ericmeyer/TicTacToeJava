@@ -29,4 +29,8 @@ This forced me to make a number of decisions:
     2. Familiarity
  * Travis CI was also chosen for familiarity
 
+### Other Notes
+
+I merged in the change to add Travis via a pull request in order to make sure the build was passing before merging in the changes.
+
 [basic_ttt]: https://github.com/8thlight/apprenticeship_syllabus/blob/master/crafter/projects/tic_tac_toe/tic_tac_toe_basic.md
