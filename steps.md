@@ -2,6 +2,12 @@
 
 This is an example application satisfying the requirements for [basic Tic Tac Toe][basic_ttt] along with the approach taken and decisions made along the way.
 
+This document contains the general approach taken as well as detailed steps along the way.
+
+## General Approach
+
+The overall approach was to take baby steps, keep commits atomic, and merge changes into master via pull requests whenever possible.
+
 ## Requirements
 
 In addition to the requirements described in the project, I wanted to use a statically typed language that was relatively easy to dive into.

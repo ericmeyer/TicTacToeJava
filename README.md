@@ -8,3 +8,8 @@
 ### Running the Tests
 
 `./gradlew test`
+
+### Running the application
+
+For verbose output: `./gradlew run`
+For cleaner output: `./gradlew run -q`
