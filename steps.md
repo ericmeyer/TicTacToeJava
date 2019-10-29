@@ -20,6 +20,8 @@ In addition to the requirements described in the project, I wanted to use a stat
 
 ## Step 1 - Setting up the Walking Skeleton
 
+[SNAPSHOT](https://github.com/ericmeyer/TicTacToeJava/tree/01-create-walking-skeleton)
+
 The first thing I like to do is set up the walking skeleton for the application, which includes choosing the tech stack.
 
 My checklist for the walking skeleton was:
@@ -46,6 +48,8 @@ This forced me to make a number of decisions:
 I merged in the change to add Travis via a pull request in order to make sure the build was passing before merging in the changes.
 
 ## Step 2 - Welcome Message and Empty Board
+
+[SNAPSHOT](https://github.com/ericmeyer/TicTacToeJava/tree/02-welcome-message)
 
 At this point, we are ready to start developing the application. There are a number of different directions we could go, however I am going to take a user focused approach. The next feature that the user would care about is being able to take the first move, so to that end the next feature I am going to add is showing a welcome message, an empty board, and instructions to take a move.
 
